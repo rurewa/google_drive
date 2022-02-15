@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Google Drive
+Categories=Utils
+Terminal=false
+Exec=gnome-terminal -x google-drive-ocamlfuse GoogleDrive/
+Icon=/home/user/google_drive/drive.png
